@@ -1,0 +1,11 @@
+- name: "Route 1"
+  desription: "lorem ipsum dolor sit amet"
+  image: "https://placeimg.com/640/480/animals"
+
+- name: "Route 2"
+  desription: "Consectetur adipisicing elit, sed do eiusmod"
+  image: "https://placeimg.com/640/480/arch"
+
+- name: "Route 3"
+  desription: "Ut enim ad minim veniam, quis nostrud exercitation"
+  image: "https://placeimg.com/640/480/nature"

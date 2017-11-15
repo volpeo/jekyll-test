@@ -1,0 +1,5 @@
+{% for route in site.data.routes %}
+   <h2>{{ route.name }}</h2>
+   <img src="{{ route.image }}">
+   <p>{{ route.description }}</p>
+{% endfor %}
